@@ -1,7 +1,7 @@
 ### Hi, I'm Max
 
-https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
-https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
+[![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
+[![My Website](https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ffloriel_)
 
