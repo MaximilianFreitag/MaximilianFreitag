@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
 
-I'm a self-study learner who likes to code in his free time. Some technologies I enjoy working with include Python, NextJS, ReactJS and GraphQL. On my website <a href="https://www.mnemo.uk/">mnemo.uk</a> I create 20 days project all around the topic computer science each month.
+I'm a self-study learner who likes to code in his free time because in high school I was forbidden to take computer science courses. On my website <a href="https://www.mnemo.uk/">mnemo.uk</a> I create 20 days project all around the topic computer science each month.
 
 
 ## Where can you find me on other sites? 🌎  <img align="left" width="250" height="250" src="https://github.com/MaximilianFreitag/MaximilianFreitag/blob/main/octocat_mnemo2.png?raw=true">
