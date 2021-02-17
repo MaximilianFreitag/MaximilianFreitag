@@ -11,7 +11,7 @@ I'm a self-study learner who likes to code in his free time. Some technologies I
 - Social Media [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
 - My Linkedin <a href="https://www.linkedin.com/in/maximilian-freitag-616a51205/">LinkedIn</a> 💼
 
-
+[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.mnemo.uk)
 
 ### Things I code with
 
