@@ -7,8 +7,9 @@ I'm a self-study learner who likes to code in his free time. Some technologies I
 
 
 ## Where can you find me on other sites? 🌎  <img align="left" width="250" height="250" src="https://github.com/MaximilianFreitag/MaximilianFreitag/blob/main/octocat_mnemo2.png?raw=true">
-[![My Website](https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
-[![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
+- [![My Website](https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
+- [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
+
 
 
 
