@@ -7,8 +7,8 @@ I'm a self-study learner who likes to code in his free time. Some technologies I
 
 
 ## Where can you find me on other sites? 🌎  
-- My personal  [![My Website](https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
-- Social Media [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
+- [![My Website](https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
+- [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
 - My <a href="https://www.linkedin.com/in/maximilian-freitag-616a51205/">LinkedIn</a> 💼
 
 
