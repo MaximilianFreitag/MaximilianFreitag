@@ -16,7 +16,7 @@ I'm a self-study learner who likes to code in his free time because in high scho
 
 
 
-### Things I code with
+### Languages and frameworks that I enjoy using...
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=typescript&logoColor=blue)
 ![NextJS](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
