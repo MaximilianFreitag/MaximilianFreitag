@@ -1,8 +1,7 @@
 ### Hi, I'm Max
 
-[![Instagram](https://www.instagram.com/max_mnemo/?hl=de)
-[![Website](https://mnemo.uk)
-
+https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
+https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
 
 ### Things I code with
 
