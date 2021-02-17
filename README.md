@@ -6,12 +6,12 @@
 I'm a self-study learner who likes to code in his free time. Some technologies I enjoy working with include Python, NextJS, ReactJS and GraphQL. On my website <a href="https://www.mnemo.uk/">mnemo.uk</a> I create 20 days project all around the topic computer science each month.
 
 
-## Where can you find me on other sites? 🌎:  
+## Where can you find me on other sites? 🌎  
 - My personal  [![My Website](https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
 - Social Media [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/max_mnemo/?hl=de)
-- My Linkedin <a href="https://www.linkedin.com/in/maximilian-freitag-616a51205/">LinkedIn</a> 💼
+- My <a href="https://www.linkedin.com/in/maximilian-freitag-616a51205/">LinkedIn</a> 💼
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.mnemo.uk)
+
 
 ### Things I code with
 
