@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
 >
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+I'm a self-study learner who likes to code in his free time. Some technologies I enjoy working with include Python, NextJS, ReactJS and GraphQL. On my website <a href="https://www.mnemo.uk/">mnemo.uk</a> I create 20 days project all around the topic computer science each month.
 
 
 ### Things I code with
