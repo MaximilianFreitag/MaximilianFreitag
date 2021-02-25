@@ -24,7 +24,7 @@ ________________________________________________________________________________
 <img alt="AWS Cloud Platform" src="https://img.shields.io/badge/-Amazon_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-
+.
 
 
 
