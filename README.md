@@ -33,7 +33,7 @@ ________________________________________________________________________________
  <br>
   
  <p align="center">
-  <b>GitHub Visitors</b>
+  <b>GitHub Visitors (since 18.03.21)</b>
   <br>
   <br>
   <img alt="Page counter" src="https://profile-counter.glitch.me/MaximilianFreitag/count.svg">
