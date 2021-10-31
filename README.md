@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 | FirstName     | LastName      | City     |
 | ------------- | ------------- | -------- |
-| - [ ] 🥇 _ The first 100 star repository on github          | Test1         | NewYork  |
+| [ ] 🥇 _ The first 100 star repository on github          | Test1         | NewYork  |
 | Bob           | Test2         | Toronto  |
 
 
