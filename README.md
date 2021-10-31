@@ -28,21 +28,12 @@ ________________________________________________________________________________
 <br>
 <br>
 
-### My personal trophy list on github 🏆
 
 
+## Stargazers ⭐
 
 
-'''
-| 🥉       | 🥈      |  🥇     |
-| ------------- | ------------- | -------- |
-| ✅  -  Get the first star from a github user | [~] - 20 projects build with python |  [~] - The first 100 star repository on github  |
-| [~] - First project written in rust | ✅  - Write your own PIP install python package | [~] - 100 followers on github |
-| ✅   - Create a readme file for the first page | [~] - One repository was forked 10 times | [~] - First 500 star repository |
-| [~] - First project written in C++ | [~]  - Publish an open source API | [~] - First 1k star repository|
-| [~] -  Create a project with 2 or more people | [~]  - You got yourself 10 followers on github | [~] - First 2k star repository   |
-| [~] - Get your first contributor on a project | [~]  - Lorem ipsum dolor est sed | [~] - 5k star repository |
-'''
+[![Stargazers repo roster for @MaximilianFreitag/MaximilianFreitag](https://reporoster.com/stars/MaximilianFreitag/MaximilianFreitag)](https://github.com/MaximilianFreitag/MaximilianFreitag/stargazers)
 
 
 
