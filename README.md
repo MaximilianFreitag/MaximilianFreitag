@@ -36,9 +36,9 @@ ________________________________________________________________________________
 
 | 🥉       | 🥈      |  🥇     |
 | ------------- | ------------- | -------- |
-| [✅ ] - Create a readme file for the first page | [..] - 20 projects build with python |  [..] - The first 100 star repository on github  |
-| [..] - First project written in rust | [✓] - Write your own PIP install python package | [..] - Get your first contributor |
-| [..] - Get your first contributor on a project | [✓] - Lorem ipsum sed lorem | [..] - Lorem ipsum sed lorem |
+| ✅  - Create a readme file for the first page | [~] - 20 projects build with python |  [~] - The first 100 star repository on github  |
+| [~] - First project written in rust | ✅  - Write your own PIP install python package | [~] - Get your first contributor |
+| [~] - Get your first contributor on a project | ✅  - Lorem ipsum sed lorem | [] - Lorem ipsum sed lorem |
 
 
 
