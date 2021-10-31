@@ -32,9 +32,9 @@ ________________________________________________________________________________
 
 <br>
 
-- [ ] 🥇 The first 100 star repository on github
-- [ ] 🥈 20 projects build with python �
-- [x] 🥉 Create a readme file for the first page 
+- [ ] 🥇  The first 100 star repository on github
+- [ ] 🥈  20 projects build with python 
+- [x] 🥉  Create a readme file for the first page 
 
 
 
