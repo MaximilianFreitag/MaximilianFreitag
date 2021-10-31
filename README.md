@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 
 
-
+'''
 | 🥉       | 🥈      |  🥇     |
 | ------------- | ------------- | -------- |
 | ✅  -  Get the first star from a github user | [~] - 20 projects build with python |  [~] - The first 100 star repository on github  |
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 | [~] - First project written in C++ | [~]  - Publish an open source API | [~] - First 1k star repository|
 | [~] -  Create a project with 2 or more people | [~]  - You got yourself 10 followers on github | [~] - First 2k star repository   |
 | [~] - Get your first contributor on a project | [~]  - Lorem ipsum dolor est sed | [~] - 5k star repository |
-
+'''
 
 
 
