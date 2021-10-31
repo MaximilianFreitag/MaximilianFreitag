@@ -39,8 +39,8 @@ ________________________________________________________________________________
 | ✅   - Create a readme file for the first page | [~] - 20 projects build with python |  [~] - The first 100 star repository on github  |
 | [~] - First project written in rust | ✅  - Write your own PIP install python package | [~] - First 500 star repository |
 | [~] - Get your first contributor on a project | [~] - Create a project with 2 or more people | [~] - First 1k star repository |
-| [~] - First project written in C++ | [~]  - Get your first contributor on a project | [~] - Lorem ipsum sed lorem |
-| [~] - Get your first contributor on a project | [~]  - Publish an open source API | [~] - Lorem ipsum sed lorem |
+| [~] - First project written in C++ | [~]  - Publish an open source API | [~] - Lorem ipsum sed lorem |
+
 
 
 
