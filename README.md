@@ -32,8 +32,7 @@ ________________________________________________________________________________
 
 
  <p align="center">
-  <b>My personal trophy list on github
- (since 18.03.21)</b>
+  
   <br>
   <br>
   - [ ] The first 100 star repository on github
