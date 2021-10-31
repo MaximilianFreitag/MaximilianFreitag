@@ -41,6 +41,7 @@ ________________________________________________________________________________
 | [~] - Get your first contributor on a project | [~] - One repository was forked 10 times | [~] - First 1k star repository |
 | [~] - First project written in C++ | [~]  - Publish an open source API | [~] - First 2k star repository |
 | [~] -  Create a project with 2 or more people | [~]  - Publish an open source API | [~] - First 5k star repository |
+| [~] -  Get the first star from a stranger | [~]  - Lorem ipsum dolor est sed | [~] - Lorem ipsum dolor est sed |
 
 
 
