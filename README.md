@@ -40,6 +40,20 @@ ________________________________________________________________________________
   [x] Creating a welcoming readme file for the first page
 </p>
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+
+
+
 
 
 <br>
