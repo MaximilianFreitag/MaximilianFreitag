@@ -31,13 +31,16 @@ ________________________________________________________________________________
 
 
 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a - [ ] The first 100 star repository on github</a> |
-  <a - [ ] 20 projects build with python</a> |
-  <a[x] Creating a welcoming readme file for the first page 3</a>
-  <br><br>
+ <p align="center">
+  <b>My personal trophy list on github
+ (since 18.03.21)</b>
+  <br>
+  <br>
+  - [ ] The first 100 star repository on github
+  - [ ] 20 projects build with python
+  [x] Creating a welcoming readme file for the first page
 </p>
+
 
 
 <br>
