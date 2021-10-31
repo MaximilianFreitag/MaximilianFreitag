@@ -27,11 +27,10 @@ ________________________________________________________________________________
 
 
 <br>
-<br>
 
 ### My personal trophy list on github 🏆
 
-
+<br>
 
 - [ ] The first 100 star repository on github
 - [ ] 20 projects build with python
