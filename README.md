@@ -32,8 +32,7 @@ ________________________________________________________________________________
 ### My personal trophy list on github
 
 
-
- <p align="center">
+<p align="center">
    - [ ] The first 100 star repository on github
    - [ ] 20 projects build with python
    - [x] Creating a welcoming readme file for the first page
