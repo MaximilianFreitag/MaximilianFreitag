@@ -32,12 +32,9 @@ ________________________________________________________________________________
 
 <br>
 
-- [ ] 🥇 _ The first 100 star repository on github
-- [ ] 🥈 _ 20 projects build with python 
-- [x] 🥉 _ Create a readme file for the first page 
 
 
-| FirstName     | LastName      | City     |
+| 🥇      | 🥈      | 🥉     |
 | ------------- | ------------- | -------- |
 | [ ] The first 100 star repository on github | [ ] 20 projects build with python | [✓] Create a readme file for the first page   |
 | [ ] First project written in rust | [✓] Write your own PIP install python package | [ ] Get your first contributor |
