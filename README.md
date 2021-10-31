@@ -29,9 +29,17 @@ ________________________________________________________________________________
 
 ### My personal trophy list on github
 
-  - [ ] The first 100 star repository on github
-  - [ ] 20 projects build with python
-  - [x] Creating a welcoming readme file for the first page
+
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a - [ ] The first 100 star repository on github</a> |
+  <a - [ ] 20 projects build with python</a> |
+  <a[x] Creating a welcoming readme file for the first page 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
 
 <br>
 <br>
