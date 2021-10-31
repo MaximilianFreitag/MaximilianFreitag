@@ -26,31 +26,19 @@ ________________________________________________________________________________
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 
+<br>
+<br>
 
 ### My personal trophy list on github
 
 
 
  <p align="center">
-  
-  <br>
-  <br>
-  - [ ] The first 100 star repository on github
-  - [ ] 20 projects build with python
-  [x] Creating a welcoming readme file for the first page
+   - [ ] The first 100 star repository on github
+   - [ ] 20 projects build with python
+   - [x] Creating a welcoming readme file for the first page
 </p>
 
-* Bullet list
-        * Nested bullet
-                 * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
-- Bullet list
-        - Nested bullet
-               - Sub-nested bullet etc
-         - Bullet list item 2 
 
 
 
