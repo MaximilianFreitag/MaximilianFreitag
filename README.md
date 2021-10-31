@@ -36,12 +36,12 @@ ________________________________________________________________________________
 
 | 🥉       | 🥈      |  🥇     |
 | ------------- | ------------- | -------- |
-| ✅   - Create a readme file for the first page | [~] - 20 projects build with python |  [~] - The first 100 star repository on github  |
+| ✅  -  Get the first star from a github user | [~] - 20 projects build with python |  [~] - The first 100 star repository on github  |
 | [~] - First project written in rust | ✅  - Write your own PIP install python package | [~] - 100 followers on github |
-| [~] - Get your first contributor on a project | [~] - One repository was forked 10 times | [~] - First 500 star repository |
+| ✅   - Create a readme file for the first page | [~] - One repository was forked 10 times | [~] - First 500 star repository |
 | [~] - First project written in C++ | [~]  - Publish an open source API | [~] - First 1k star repository|
 | [~] -  Create a project with 2 or more people | [~]  - You got yourself 10 followers on github | [~] - First 2k star repository   |
-| ✅  -  Get the first star from a github user | [~]  - Lorem ipsum dolor est sed | [~] - 5k star repository |
+| [~] - Get your first contributor on a project | [~]  - Lorem ipsum dolor est sed | [~] - 5k star repository |
 
 
 
