@@ -26,20 +26,6 @@ ________________________________________________________________________________
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <br>
-<br>
-
-
-
-## Stargazers ⭐
-
-
-[![Stargazers repo roster for @MaximilianFreitag/MaximilianFreitag](https://reporoster.com/stars/MaximilianFreitag/MaximilianFreitag)](https://github.com/MaximilianFreitag/MaximilianFreitag/stargazers)
-
-
-
-
-
-
 
 
 <br>
