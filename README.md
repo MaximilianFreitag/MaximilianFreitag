@@ -37,7 +37,10 @@ ________________________________________________________________________________
 - [x] 🥉 _ Create a readme file for the first page 
 
 
-
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| - [ ] 🥇 _ The first 100 star repository on github          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
 
 
 
