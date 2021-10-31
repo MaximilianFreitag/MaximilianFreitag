@@ -37,7 +37,6 @@ ________________________________________________________________________________
   <a - [ ] 20 projects build with python</a> |
   <a[x] Creating a welcoming readme file for the first page 3</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
 
 
