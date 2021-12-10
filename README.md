@@ -26,7 +26,6 @@ ________________________________________________________________________________
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 
-<br>
 Next goal: Learning flutter and building a mobile app.
 <br>
 <br>
