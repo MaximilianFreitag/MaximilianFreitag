@@ -27,6 +27,9 @@ ________________________________________________________________________________
 
 
 <br>
+Next goal: Learning flutter and building a mobile app.
+<br>
+<br>
  <br>
   
  <p align="center">
