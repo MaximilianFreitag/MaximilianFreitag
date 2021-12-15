@@ -18,21 +18,17 @@ ________________________________________________________________________________
 
 
 ### Languages and frameworks that I enjoy using...
-(High Level Language)
+
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=typescript&logoColor=blue)
-(Web)
 ![NextJS](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white)
-(Mobile)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-(Low Level Language)
 ![Rust](https://img.shields.io/badge/__-Rust-orange)
 <img alt="AWS Cloud Platform" src="https://img.shields.io/badge/-Amazon_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-(Text Editor)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 
 Next goal: Learning flutter and building a mobile app.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br>
 <br>
  <br>
