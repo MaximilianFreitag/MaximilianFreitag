@@ -27,7 +27,7 @@ ________________________________________________________________________________
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 
- 🚩 Next goal: Learning flutter and building a mobile app.
+ 🏁  Next goal: Learning flutter and building a mobile app.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br>
 <br>
