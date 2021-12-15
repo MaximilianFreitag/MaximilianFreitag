@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 ![Python <3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white)
-![Rust](https://img.shields.io/badge/__-Rust-orange)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 <img alt="AWS AWS or Google Cloud" src="https://img.shields.io/badge/AWS_or_Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
