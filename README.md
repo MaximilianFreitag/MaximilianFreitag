@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ### Languages and frameworks that I enjoy using...
 
-![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=typescript&logoColor=blue)
+![Python <3](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=typescript&logoColor=blue)
 ![NextJS](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/__-Rust-orange)
 <img alt="AWS AWS or Google Cloud" src="https://img.shields.io/badge/AWS_or_Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
