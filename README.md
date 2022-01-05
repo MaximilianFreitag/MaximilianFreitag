@@ -29,16 +29,8 @@ ________________________________________________________________________________
 Next goal: Learning flutter and building a mobile app. 🏁
 
 
-Notes to myself:
-https://dartpad.dev/ (Dart Playground)
 
 
-
-
-
-
-
-<br>
 <br>
  <br>
   
@@ -49,16 +41,6 @@ https://dartpad.dev/ (Dart Playground)
   <br>
   <img alt="Page counter" src="https://profile-counter.glitch.me/MaximilianFreitag/count.svg">
 </p>
-
-
-
-
-
-
-
-
-
-
 
 
 
