@@ -27,9 +27,19 @@ ________________________________________________________________________________
 
 
 Next goal: Learning flutter and building a mobile app. 🏁
+
+
+Notes to myself:
+https://dartpad.dev/? (Dart Playground)
+
+
+
+
+
 <br>
 <br>
  <br>
+  
   
  <p align="center">
   <b>GitHub Visitors (since 18.03.21)</b>
