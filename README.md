@@ -27,6 +27,8 @@ ________________________________________________________________________________
 
 
 Next goal: Learning flutter and building a mobile app. 🏁
+
+
 Notes to myself:
 https://dartpad.dev/ (Dart Playground)
 
