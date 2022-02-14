@@ -1,4 +1,4 @@
-## Hello world, I'm Max  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😊 💻
+## Hey, I'm Max  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😊 💻
 
 
 <img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
@@ -42,11 +42,6 @@ Next goal: Learning flutter and building a mobile app. 🏁
   <br>
   <img alt="Page counter" src="https://profile-counter.glitch.me/MaximilianFreitag/count.svg">
 </p>
-
-
-
-
-
 
 
 
