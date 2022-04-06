@@ -26,6 +26,7 @@ ________________________________________________________________________________
 
 
 Previous goal: Learning flutter and building a mobile app. 🏁 [x]
+
 Next goal: 
 
 
