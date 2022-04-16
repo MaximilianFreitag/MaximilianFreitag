@@ -1,9 +1,10 @@
 ## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
+I'm a self-study learner who likes to code in his free time because in high school I was forbidden to take computer science courses. On my website <a href="https://www.mnemo.uk/">mnemo.uk</a> I publish my recent projects and on my Instagram I document my self-study journey to become a programmer under the name max mnemo.  
 
-I'm a self-study learner who likes to code in his free time because in high school I was forbidden to take computer science courses. On my website <a href="https://www.mnemo.uk/">mnemo.uk</a> I publish my recent projects and on my Instagram I document my self-study journey to become a programmer under the name max mnemo.   
+<img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
+ 
 
 
 ## Where can you find me on other sites? 🌎  <img align="left" width="250" height="250" src="https://github.com/MaximilianFreitag/MaximilianFreitag/blob/main/octocat_mnemo2.png?raw=true">
