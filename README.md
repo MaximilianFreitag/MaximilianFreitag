@@ -21,10 +21,10 @@ ________________________________________________________________________________
 
 ![Python <3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![NextJS](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=ffffff)
 <img alt="AWS AWS or Google Cloud" src="https://img.shields.io/badge/AWS_or_Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-![FastAPI](https://img.shields.io/badge/-fastapi-000000?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-fastapi-000000?style=flat-square&logo=fastapi&logoColor=ffffff)
 
 
 
