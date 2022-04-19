@@ -1,7 +1,7 @@
 ## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I'm a self-study learner who likes to code in his free time
+I'm a self-study programmer who likes to code in his free time
 
 <img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
  
