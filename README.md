@@ -5,7 +5,6 @@ I'm a self-study programmer who likes to code in his free time
 
 <img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
  
- 
 
 
 
