@@ -1,4 +1,4 @@
-## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Hello World 
 
 
 I'm a self-study programmer who likes to code in his free time
