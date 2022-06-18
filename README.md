@@ -12,7 +12,7 @@ I'm a self-study programmer who likes to code in his free time
  [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=grey)](https://www.instagram.com/max_mnemo/?hl=de)
  [![E-Mail](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=@&logoColor=grey)](https://mnemo.uk/contact/)
 [![Docker Profile](https://img.shields.io/badge/docker-%2312100E.svg?&style=for-the-badge&logo=@&logoColor=grey)](https://hub.docker.com/u/maxmnemo)
-[![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=@&logoColor=grey)]([[https://kaggle.com/maxmnemo1010])
+[![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=@&logoColor=grey)](https://kaggle.com/maxmnemo1010)
 
 
 
