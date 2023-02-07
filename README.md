@@ -26,6 +26,7 @@ ________________________________________________________________________________
 ![FastAPI](https://img.shields.io/badge/-fastapi-000000?style=flat-square&logo=fastapi&logoColor=ffffff)
 
 
+
 <br>
  <br>
   
