@@ -4,7 +4,8 @@
 I'm a self-study programmer who likes to code in his free time
 
 <img src="https://raw.githubusercontent.com/MaximilianFreitag/MaximilianFreitag/master/banner.png">
- 
+
+
  
 ## Where can you find me on other sites? 🌎  <img align="left" width="250" height="250" src="https://github.com/MaximilianFreitag/MaximilianFreitag/blob/main/octocat_mnemo3.png?raw=true">
  [![My Website](https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.mnemo.uk)
@@ -25,6 +26,7 @@ ________________________________________________________________________________
 <img alt="AWS AWS or Google Cloud" src="https://img.shields.io/badge/AWS_or_Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 ![FastAPI](https://img.shields.io/badge/-fastapi-000000?style=flat-square&logo=fastapi&logoColor=ffffff)
+
 
 
 <br>
