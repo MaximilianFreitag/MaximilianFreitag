@@ -15,8 +15,8 @@ I'm a self-study programmer who likes to code in his free time
 [![Linktree](https://img.shields.io/badge/linktree-%2312100E.svg?&style=for-the-badge&logo=@&logoColor=grey)](https://linktr.ee/max_mnemo)
 
 
-
 ____________________________________________________________________________________________________________________________________
+
 
 
 ### Languages and frameworks that I enjoy using...
