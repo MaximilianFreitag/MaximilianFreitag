@@ -8,7 +8,7 @@ I'm a self-study programmer who likes to code in his free time
  
 ## Where can you find me on other sites? 🌎  <img align="left" width="250" height="250" src="https://github.com/MaximilianFreitag/MaximilianFreitag/blob/main/octocat_mnemo3.png?raw=true">
 
- [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=grey)](https://www.instagram.com/max_mnemo/?hl=de)
+ [![Instagram](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=grey)](https://www.instagram.com/max.mnemo/?hl=de)
  [![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=@&logoColor=grey)](https://kaggle.com/maxmnemo1010)
 [![Linktree](https://img.shields.io/badge/linktree-%2312100E.svg?&style=for-the-badge&logo=@&logoColor=grey)](https://linktr.ee/max_mnemo)
 
