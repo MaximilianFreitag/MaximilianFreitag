@@ -3,6 +3,7 @@
 
 I like to code in my free time
 
+<img align="left" width="250" height="250" src="https://github.com/MaximilianFreitag/MaximilianFreitag/blob/main/octocat_mnemo3.png?raw=true">
 
 ____________________________________________________________________________________________________________________________________
 
